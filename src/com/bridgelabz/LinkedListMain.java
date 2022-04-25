@@ -1,5 +1,8 @@
 package com.bridgelabz;
-
+/*
+ * @author: Nikhil Deshmukh
+ * create a simple Linked List of 56, 30 and 70
+ */
 import java.util.Scanner;// import scanner class
 
 public class LinkedListMain {

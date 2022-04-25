@@ -2,7 +2,6 @@ package com.bridgelabz;
 
 public class LinkedList {
 	Node head;
-	// create node class
 	// class Node that hold data and a reference/link to the next Node in the list
 	class Node {
 		int data;
